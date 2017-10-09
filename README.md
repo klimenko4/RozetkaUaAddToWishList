@@ -18,6 +18,7 @@ Write an automation test that will be able to do through the browser the followi
 2. Login
 3. In the "Catalog of Goods" menu, select "Notebooks"
 4. Make a filter at the price of "10000-12999 UAH"
-5. Open the product page with the most reviews (search)
+5. Open the product page with the most reviews (search only on the first page of Search result)
 6. Add the item to the "Wish List"
 7. Check the addition of goods in the "Wish List"
+
